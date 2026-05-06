@@ -8,7 +8,7 @@ export function WhatsAppButton() {
         How can we pray for you?
       </div>
       <a
-        href="https://wa.me/15551234567"
+        href="https://wa.me/+233542297717"
         target="_blank"
         rel="noopener noreferrer"
         className="w-16 h-16 bg-[#25D366] text-white rounded-full flex items-center justify-center shadow-2xl hover:scale-110 transition-transform"

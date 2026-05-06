@@ -29,7 +29,7 @@ export default function About() {
                 <strong>Our Vision:</strong> To see our city transformed by the radical grace of God. We envision a church that is a beacon of hope, where the lost are found, the broken are healed, and believers are equipped to change the world.
               </p>
               <p>
-                Grace City planted its roots in 2010 with just a handful of families meeting in a living room. Today, we are humbled to see how God has grown our community into a vibrant, diverse family.
+                Jesus the Great planted its roots in 2010 with just a handful of families meeting in a living room. Today, we are humbled to see how God has grown our community into a vibrant, diverse family.
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ export default function About() {
             className="rounded-2xl shadow-lg w-full aspect-square object-cover"
           />
           <div>
-            <h3 className="text-2xl font-bold text-gray-900 mb-2">Pastor John & Sarah Smith</h3>
+            <h3 className="text-2xl font-bold text-gray-900 mb-2">PROPHET T.K FRIMPONG(OVERSEER) & REV. GEORGE ODDEI(Might Man)</h3>
             <p className="text-church-gold font-medium uppercase tracking-wider text-sm mb-6">Lead Pastors</p>
             <div className="space-y-4 text-gray-600">
               <p>

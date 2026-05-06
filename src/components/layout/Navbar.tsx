@@ -36,8 +36,8 @@ export function Navbar() {
     <header className="fixed inset-x-0 top-0 z-50 bg-white border-b border-gray-100">
       {/* Announcement Bar */}
       <div className="bg-church-blue text-white py-2 px-6 flex-col sm:flex-row justify-center sm:justify-between items-center text-[10px] sm:text-xs tracking-widest uppercase font-semibold hidden md:flex">
-        <span>Join us this Sunday at 9:00 AM & 11:00 AM</span>
-        <span>123 Faith Lane, Springfield • Live Online</span>
+        <span>Join us this Sunday at 8:00 AM & 12:00 PM</span>
+        <span>Sofoline Alignment, Kumasi • Live Online</span>
       </div>
 
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-8" aria-label="Global">
@@ -46,8 +46,8 @@ export function Navbar() {
             <div className="w-10 h-10 bg-church-gold rounded-full flex items-center justify-center text-white shrink-0">
                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2L3 9h18l-9-7z"/><path d="M5 22h14v-11H5v11z"/><path d="M12 11v4"/><path d="M10 13h4"/></svg>
             </div>
-            <span className="font-sans text-xl font-bold tracking-tight text-church-blue">
-              GRACE COMMUNITY
+            <span className="font-sans text-sm md:text-base lg:text-lg font-bold tracking-tight text-church-blue truncate">
+              JESUS THE GREAT POWERFUL WAY MINISTRY
             </span>
           </Link>
         </div>

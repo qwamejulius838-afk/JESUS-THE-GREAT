@@ -35,7 +35,7 @@ export default function Contact() {
                   <MapPin className="w-6 h-6 text-church-gold shrink-0 mt-1" />
                   <div>
                     <h3 className="font-bold text-lg">Main Campus</h3>
-                    <p className="text-gray-300 mt-1">123 Faith Avenue<br />Graceville, CA 90210</p>
+                    <p className="text-gray-300 mt-1">Sofoline Alignment<br />Kumasi, Ghana</p>
                   </div>
                 </div>
                 
@@ -43,7 +43,7 @@ export default function Contact() {
                   <Phone className="w-6 h-6 text-church-gold shrink-0 mt-1" />
                   <div>
                     <h3 className="font-bold text-lg">Phone</h3>
-                    <p className="text-gray-300 mt-1">(555) 123-4567</p>
+                    <p className="text-gray-300 mt-1">(+233) 542297717</p>
                     <p className="text-sm text-gray-400 mt-1">Mon-Thu, 9am - 4pm</p>
                   </div>
                 </div>
@@ -52,7 +52,7 @@ export default function Contact() {
                   <Mail className="w-6 h-6 text-church-gold shrink-0 mt-1" />
                   <div>
                     <h3 className="font-bold text-lg">Email</h3>
-                    <p className="text-gray-300 mt-1">hello@gracecity.church</p>
+                    <p className="text-gray-300 mt-1">qwamejulius838@gmail.com</p>
                   </div>
                 </div>
                 
@@ -61,7 +61,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-bold text-lg">WhatsApp</h3>
                     <p className="text-gray-300 mt-1">Need a quicker response? Chat with us.</p>
-                     <a href="https://wa.me/15551234567" target="_blank" rel="noopener noreferrer" className="inline-block mt-3 bg-[#25D366] hover:bg-[#20bd5a] text-white text-sm font-bold py-2 px-4 rounded-lg transition-colors shadow-sm">
+                     <a href="https://wa.me/233542297717" target="_blank" rel="noopener noreferrer" className="inline-block mt-3 bg-[#25D366] hover:bg-[#20bd5a] text-white text-sm font-bold py-2 px-4 rounded-lg transition-colors shadow-sm">
                        Chat on WhatsApp
                      </a>
                   </div>
@@ -139,7 +139,7 @@ export default function Contact() {
         <div className="absolute inset-0 flex flex-col items-center justify-center text-gray-500 bg-gray-100">
           <MapPin className="w-12 h-12 mb-4 text-gray-400" />
           <p className="font-medium text-lg">Interactive Map Integration</p>
-          <p className="text-sm">123 Faith Avenue, Graceville, CA 90210</p>
+          <p className="text-sm">Sofoline Alignment, Kumasi, Ghana</p>
         </div>
       </section>
     </div>

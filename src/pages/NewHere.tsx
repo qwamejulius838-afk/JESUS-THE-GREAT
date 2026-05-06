@@ -23,9 +23,9 @@ export default function NewHere() {
              <div className="absolute inset-0 bg-church-blue/80 mix-blend-multiply"></div>
         </div>
         <div className="relative z-10 max-w-3xl mx-auto">
-          <h1 className="text-5xl md:text-6xl font-serif font-bold mb-6">Welcome Home</h1>
+          <h1 className="text-5xl md:text-6xl font-serif font-bold mb-6">Welcome to church </h1>
           <p className="text-xl text-gray-300 font-light leading-relaxed">
-            We know visiting a new church can be overwhelming. We want to make your first experience at Grace City a great one.
+            We know visiting a new church can be overwhelming. We want to make your first experience at Jesus the Great a great one.
           </p>
         </div>
       </section>
@@ -44,7 +44,7 @@ export default function NewHere() {
                   <Clock className="w-8 h-8 text-church-gold" />
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-gray-900">Services at 9:00 AM & 11:00 AM</h3>
+                  <h3 className="text-xl font-bold text-gray-900">Services at 8:00 AM & 12:00 PM</h3>
                   <p className="text-gray-600 mt-2">Services last about 75 minutes. We start with engaging, modern worship followed by a Jesus-centered message from our pastor.</p>
                 </div>
               </div>
@@ -84,7 +84,7 @@ export default function NewHere() {
               <MapPin className="w-6 h-6 text-church-blue shrink-0 mt-1" />
               <div>
                 <h4 className="font-bold text-gray-900">Location & Parking</h4>
-                <p className="text-gray-600 mt-1 text-sm">123 Faith Avenue, Graceville. Turn on your hazards when you enter the lot, and our parking team will direct you to VIP guest parking!</p>
+                <p className="text-gray-600 mt-1 text-sm">Sofoline Alignment, Kumasi. Turn on your hazards when you enter the lot, and our parking team will direct you to VIP guest parking!</p>
               </div>
             </div>
           </div>
@@ -138,8 +138,8 @@ export default function NewHere() {
                     <label htmlFor="service" className="block text-sm font-medium text-gray-700 mb-1">Which service will you attend?</label>
                     <select required id="service" className="w-full rounded-lg border-gray-300 bg-gray-50 border px-4 py-2.5 focus:border-church-blue focus:ring-church-blue outline-none transition-all">
                       <option value="">Select a service</option>
-                      <option value="9am">Sunday at 9:00 AM</option>
-                      <option value="11am">Sunday at 11:00 AM</option>
+                      <option value="8am">Sunday at 8:00 AM</option>
+                      <option value="12pm">Sunday at 12:00 PM</option>
                     </select>
                   </div>
 

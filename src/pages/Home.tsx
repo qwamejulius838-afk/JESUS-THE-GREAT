@@ -8,7 +8,7 @@ export default function Home() {
       <section className="relative flex flex-col lg:flex-row min-h-[900px] items-center pt-32 pb-16 px-6 lg:px-16 max-w-[1600px] mx-auto overflow-hidden">
         <div className="w-full lg:w-1/2 z-10 pt-16 lg:pt-0">
           <span className="inline-block px-4 py-1.5 bg-church-gold/10 text-church-gold text-xs font-bold tracking-widest uppercase rounded flex-shrink-0 w-fit mb-6 animate-fade-in-up">
-            Welcome to our Family
+            JESUS THE GREAT
           </span>
           <h1 className="text-5xl sm:text-7xl lg:text-[5rem] font-serif font-bold leading-[1.1] text-church-blue mb-8">
             You belong <span className="text-church-gold">here.</span>
@@ -84,7 +84,7 @@ export default function Home() {
               We've been saving a seat for you.
             </h2>
             <p className="text-gray-600 mb-8 text-lg leading-relaxed">
-              Visiting a new church can be intimidating. At Grace City, we want you to feel at home the moment you walk through the doors. Expect casual dress, modern worship, and a message that applies to your everyday life.
+              Visiting a new church can be intimidating. At Jesus the Great, we want you to feel at home the moment you walk through the doors. Expect casual dress, modern worship, and a message that applies to your everyday life.
             </p>
             
             <ul className="space-y-6 mb-10">
@@ -94,7 +94,7 @@ export default function Home() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 text-lg">Central Location</h3>
-                  <p className="text-gray-600 mt-1">123 Faith Ave. Plentiful free parking with a dedicated team to guide you.</p>
+                  <p className="text-gray-600 mt-1">Sofoline Alignment, Kumasi. Plentiful free parking with a dedicated team to guide you.</p>
                 </div>
               </li>
               <li className="flex gap-4">

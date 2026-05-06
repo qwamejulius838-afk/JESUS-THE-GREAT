@@ -10,8 +10,8 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8">
-            <span className="font-serif text-3xl font-bold tracking-tight text-white">
-              Grace City
+            <span className="font-serif text-3xl font-bold tracking-tight text-white uppercase">
+              Jesus The Great Powerful Way Ministry
             </span>
             <p className="text-sm leading-6 text-gray-300 max-w-xs">
               A place to belong, grow, and serve. Join us this Sunday and experience the love of Christ.
@@ -91,26 +91,26 @@ export function Footer() {
                   <li className="flex items-start gap-3">
                     <MapPin className="h-5 w-5 text-church-gold shrink-0 mt-0.5" />
                     <span className="text-sm leading-6 text-gray-300">
-                      123 Faith Avenue<br />
-                      Graceville, CA 90210
+                      Sofoline Alignment<br />
+                      Kumasi, Ghana
                     </span>
                   </li>
                   <li className="flex items-center gap-3">
                     <Phone className="h-5 w-5 text-church-gold shrink-0" />
                     <span className="text-sm leading-6 text-gray-300">
-                      (555) 123-4567
+                      (+233) 542297717
                     </span>
                   </li>
                   <li className="flex items-center gap-3">
                     <Mail className="h-5 w-5 text-church-gold shrink-0" />
                     <span className="text-sm leading-6 text-gray-300">
-                      hello@gracecity.church
+                      qwamejulius838@gmail.com
                     </span>
                   </li>
                 </ul>
                 <div className="mt-6">
                    <p className="text-sm font-semibold text-white">Service Times:</p>
-                   <p className="text-sm text-gray-300 mt-1">Sundays at 9:00 AM & 11:00 AM</p>
+                   <p className="text-sm text-gray-300 mt-1">Sundays at 8:00 AM & 12:00 PM</p>
                 </div>
               </div>
             </div>
@@ -122,7 +122,7 @@ export function Footer() {
         </div>
         <div className="mt-8 md:flex md:items-center md:justify-between">
           <p className="text-xs leading-5 text-gray-400">
-            &copy; {new Date().getFullYear()} Grace City Church. All rights reserved.
+            &copy; {new Date().getFullYear()} Jesus The Great Powerful Way Ministry. All rights reserved.
           </p>
            <p className="text-xs leading-5 text-gray-500 mt-2 md:mt-0">
             Designed for connection and community.
